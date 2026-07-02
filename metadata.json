@@ -1,0 +1,6 @@
+{
+  "name": "Coaching Institute Landing Page",
+  "description": "A highly polished, trust-focused, and mobile-responsive landing page for a local Indian coaching institute featuring course catalogs, student success records, faculty profiles, and an integrated inquiry/admissions manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
